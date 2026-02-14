@@ -1,0 +1,16 @@
+#cloud-config
+hostname: ubuntu22
+ssh_pwauth: true
+disable_root: false
+users:
+  - name: root
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    shell: /bin/bash
+    ssh_authorized_keys:
+      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINW6SDqOH4PEpoEKJvlPFqmukBU0/ySPtrryc6Mh/84G generated-for-Minecraft-Server
+    password: $6$3.KjDML8ObZ9/d85$rBneoD7VYpIuhTQlUkRxj5l0Pc7pNVtKRXUXeID3V4UBz.kbC8/DO9VSVyzo7pT5/wSx6vwzSlhmGhWBFK7KM1
+chpasswd:
+  list: |
+    root:root
+    root:root
+  expire: false
