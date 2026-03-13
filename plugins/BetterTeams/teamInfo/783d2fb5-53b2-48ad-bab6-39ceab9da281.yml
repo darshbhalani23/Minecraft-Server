@@ -1,0 +1,176 @@
+name: MUTHAL
+description: ''
+open: false
+pvp: true
+anchor: true
+home: world:1316.1764237461853:57.0:755.0042833434793:84.21924:21.884691
+color: '4'
+chests: []
+players:
+- 660320b4-f589-3e1f-8222-c8528758d902,DEFAULT
+- 30db7395-db70-3869-9c53-3fa288b6f920,OWNER
+- 2f3cc879-34c0-3b12-aa0b-6fc3949b1f21,DEFAULT
+anchoredPlayers: []
+level: 1
+tag: ''
+score: 0
+warps:
+- fortress;world_nether:-104.90117536520741:57.0:-115.36334253341772:78.55737:8.811969
+- base;world:2294.842878757452:47.0:351.4310931111482:110.34825:-2.524499
+echest:
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:ominous_bottle
+    count: 2
+    schema_version: 1
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:stick
+    count: 38
+    schema_version: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nether_wart
+    count: 57
+    schema_version: 1
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:blaze_rod
+    count: 21
+    schema_version: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_scrap
+    count: 5
+    schema_version: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:ominous_bottle
+    count: 3
+    components:
+      minecraft:ominous_bottle_amplifier: '4'
+    schema_version: 1
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:breeze_rod
+    count: 38
+    schema_version: 1
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:wither_skeleton_skull
+    count: 1
+    schema_version: 1
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:dried_ghast
+    count: 3
+    schema_version: 1
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:potion
+    count: 1
+    components:
+      minecraft:potion_contents: '{potion:"minecraft:healing"}'
+    schema_version: 1
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nether_bricks
+    count: 2
+    schema_version: 1
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:bucket
+    count: 1
+    schema_version: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:fortune":2}'
+    schema_version: 1
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:book
+    count: 3
+    schema_version: 1
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_ingot
+    count: 7
+    schema_version: 1
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:cobblestone
+    count: 64
+    schema_version: 1
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:cobblestone
+    count: 64
+    schema_version: 1
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:cobblestone
+    count: 64
+    schema_version: 1
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:cobblestone
+    count: 64
+    schema_version: 1
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:cobblestone
+    count: 64
+    schema_version: 1
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:cobblestone
+    count: 64
+    schema_version: 1
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:raw_iron
+    count: 4
+    schema_version: 1
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gold_block
+    count: 2
+    schema_version: 1
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:diamond
+    count: 2
+    schema_version: 1
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:emerald
+    count: 38
+    schema_version: 1

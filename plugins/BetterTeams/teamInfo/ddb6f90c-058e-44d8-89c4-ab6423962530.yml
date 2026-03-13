@@ -1,0 +1,222 @@
+name: Noobs
+description: ''
+open: false
+pvp: false
+anchor: false
+home: world:104.69999998807907:69.13831792101568:-1603.4271197739336:-82.135315:20.533371
+color: '0'
+chests: []
+anchoredPlayers:
+- 0fba7eb5-112d-3f22-87a4-35978da1ebd4
+players:
+- 0fba7eb5-112d-3f22-87a4-35978da1ebd4,OWNER
+- e6ca839e-eb8c-357b-9bba-1fadae31b4aa,DEFAULT
+- 62b16fc5-739f-3df9-8cbc-8ecfc04670a2,OWNER
+level: 1
+tag: ''
+score: 1
+echest:
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:iron_ingot
+    count: 18
+    schema_version: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_helmet
+    count: 1
+    components:
+      minecraft:repair_cost: '3'
+      minecraft:enchantments: '{"minecraft:aqua_affinity":1,"minecraft:mending":1,"minecraft:protection":3}'
+      minecraft:trim: '{material:"minecraft:amethyst",pattern:"minecraft:snout"}'
+      minecraft:damage: '16'
+    schema_version: 1
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:raw_gold
+    count: 8
+    schema_version: 1
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:golden_helmet
+    count: 1
+    components:
+      minecraft:enchantments: '{"minecraft:mending":1}'
+    schema_version: 1
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:diamond
+    count: 44
+    schema_version: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gold_ingot
+    count: 9
+    schema_version: 1
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_leggings
+    count: 1
+    components:
+      minecraft:repair_cost: '1'
+      minecraft:enchantments: '{"minecraft:mending":1}'
+      minecraft:trim: '{material:"minecraft:amethyst",pattern:"minecraft:snout"}'
+      minecraft:damage: '16'
+    schema_version: 1
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:potion
+    count: 1
+    components:
+      minecraft:potion_contents: '{potion:"minecraft:water_breathing"}'
+    schema_version: 1
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:potion
+    count: 1
+    components:
+      minecraft:potion_contents: '{potion:"minecraft:water_breathing"}'
+    schema_version: 1
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_scrap
+    count: 2
+    schema_version: 1
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:coast_armor_trim_smithing_template
+    count: 2
+    schema_version: 1
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_upgrade_smithing_template
+    count: 37
+    schema_version: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:wither_skeleton_skull
+    count: 1
+    schema_version: 1
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:emerald
+    count: 36
+    schema_version: 1
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:arrow
+    count: 32
+    schema_version: 1
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:silk_touch":1}'
+    schema_version: 1
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:channeling":1}'
+    schema_version: 1
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_ingot
+    count: 20
+    schema_version: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:enchanting_table
+    count: 1
+    schema_version: 1
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_boots
+    count: 1
+    components:
+      minecraft:trim: '{material:"minecraft:amethyst",pattern:"minecraft:snout"}'
+      minecraft:damage: '122'
+    schema_version: 1
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_chestplate
+    count: 1
+    components:
+      minecraft:repair_cost: '1'
+      minecraft:enchantments: '{"minecraft:mending":1}'
+      minecraft:trim: '{material:"minecraft:amethyst",pattern:"minecraft:snout"}'
+      minecraft:damage: '16'
+    schema_version: 1
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_axe
+    count: 1
+    components:
+      minecraft:damage: '755'
+    schema_version: 1
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:enchanted_book
+    count: 1
+    components:
+      minecraft:stored_enchantments: '{"minecraft:efficiency":5}'
+    schema_version: 1
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:book
+    count: 64
+    schema_version: 1
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:netherite_sword
+    count: 1
+    components:
+      minecraft:repair_cost: '1'
+      minecraft:enchantments: '{"minecraft:fire_aspect":2}'
+      minecraft:damage: '287'
+    schema_version: 1
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:diamond_block
+    count: 2
+    schema_version: 1
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gold_block
+    count: 8
+    schema_version: 1
+warps:
+- Kabir;world:1347.477924337639:71.0:761.9344206023839:83.46393:28.6857
+- Outpost;world:-904.2376926206731:68.0:-1935.1323575778267:-136.95955:12.48485
+- trail;world:226.9409036310449:-25.0:-1262.385868823274:91.927246:41.844707
+- pvp;world:1108.0255300926765:79.0:86.45409293824501:-78.75525:20.893763
+- 1;world_nether:104.46649048166809:53.0:73.69999998807907:168.30116:6.3494678

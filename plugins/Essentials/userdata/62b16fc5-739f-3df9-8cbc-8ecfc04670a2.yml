@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.162.144.172
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1773310707315
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1773310747637
+  login: 1773310485335
+money: '0'
+last-account-name: INF3RNO_M2V
+lastlocation:
+  world: 60e2f01c-38d1-4fcb-9054-2e2bca04b764
+  world-name: world
+  x: 197.9952764808661
+  y: 48.0
+  z: -1619.8013284957517
+  yaw: 144.20855712890625
+  pitch: 33.54661178588867
+logoutlocation:
+  world: 60e2f01c-38d1-4fcb-9054-2e2bca04b764
+  world-name: world
+  x: 87.29761791312215
+  y: 71.0
+  z: -1589.9490951760217
+  yaw: -115.72799682617188
+  pitch: 48.1462516784668

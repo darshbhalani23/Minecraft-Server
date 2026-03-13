@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.212.158.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1772961551653
+  login: 1772960685446
+money: '0'
+last-account-name: Kabir_dua
+lastlocation:
+  world: 150f0e3d-5841-4e3c-9a59-e38a5722bcb0
+  world-name: world
+  x: -1521.300000011921
+  y: 79.0
+  z: -1482.9654340043835
+  yaw: -106.35000610351562
+  pitch: 72.90001678466797
+logoutlocation:
+  world: 150f0e3d-5841-4e3c-9a59-e38a5722bcb0
+  world-name: world
+  x: -1485.0610517189061
+  y: 91.0
+  z: -1436.7549541192764
+  yaw: -56.728370666503906
+  pitch: 32.0945930480957

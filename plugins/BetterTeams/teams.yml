@@ -1,0 +1,12 @@
+storageType: YAML
+teamNameLookup:
+- muthal:783d2fb5-53b2-48ad-bab6-39ceab9da281
+- noobs:ddb6f90c-058e-44d8-89c4-ab6423962530
+playerLookup:
+- 30db7395-db70-3869-9c53-3fa288b6f920:783d2fb5-53b2-48ad-bab6-39ceab9da281
+- 62b16fc5-739f-3df9-8cbc-8ecfc04670a2:ddb6f90c-058e-44d8-89c4-ab6423962530
+- 2f3cc879-34c0-3b12-aa0b-6fc3949b1f21:783d2fb5-53b2-48ad-bab6-39ceab9da281
+- 0fba7eb5-112d-3f22-87a4-35978da1ebd4:ddb6f90c-058e-44d8-89c4-ab6423962530
+- 660320b4-f589-3e1f-8222-c8528758d902:783d2fb5-53b2-48ad-bab6-39ceab9da281
+- e6ca839e-eb8c-357b-9bba-1fadae31b4aa:ddb6f90c-058e-44d8-89c4-ab6423962530
+chestClaims: []

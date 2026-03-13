@@ -1,0 +1,1 @@
+{"NaturalCauseHeartLoss":{"value":false},"HeartGainRate":{"value":2.0},"HeartLostRate":{"value":2.0},"HasHeartLimit":{"value":true},"HeartLimit":{"value":100.0},"RevivalHearts":{"value":10.0},"DefaultPermissions":{"value":true},"BroadcastEvents":{"value":true},"CopyOldHealth":{"value":true}}

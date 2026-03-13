@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.46.202.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1773397576278
+  login: 1773391228966
+money: '0'
+last-account-name: Dark_slayer_XD
+logoutlocation:
+  world: 60e2f01c-38d1-4fcb-9054-2e2bca04b764
+  world-name: world
+  x: 2650.300000011921
+  y: 28.0
+  z: 613.2473135901632
+  yaw: -13.845458984375
+  pitch: 10.34996223449707
